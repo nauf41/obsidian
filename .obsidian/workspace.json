@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self_position_estimation/Luis_1999.md",
+                "file": "Seccampで達成したいミッション.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Luis_1999"
+              "title": "Seccampで達成したいミッション"
             }
           }
         ]
@@ -194,17 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-  "active": "1ffc7d9abbf55c87",
+  "active": "6e37e48b25b3c98a",
   "lastOpenFiles": [
+    "self_position_estimation/Luis_1999.md",
+    "README.md",
+    "Seccampで達成したいミッション.md",
     "Welcome.md",
     "EV3RT/モータードライバについて.md",
     "EV3RT/README.md",
     "EV3RT/LICENSE.md",
     "EV3RT"
   ]
-=======
-  "active": "39cb5d5e078dae08",
-  "lastOpenFiles": []
->>>>>>> 11587ce (vault backup: 2026-07-12 18:08:03)
 }
