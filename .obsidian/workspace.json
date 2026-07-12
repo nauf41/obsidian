@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "ff29700a285c3984",
-        "type": "tabs",
+        "id": "bebb1a1a5b3d76a8",
+        "type": "split",
         "children": [
           {
-            "id": "6e37e48b25b3c98a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seccampで達成したいミッション.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Seccampで達成したいミッション"
-            }
+            "id": "ff29700a285c3984",
+            "type": "tabs",
+            "dimension": 74.79508196721312,
+            "children": [
+              {
+                "id": "6e37e48b25b3c98a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Seccampで達成したいミッション.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Seccampで達成したいミッション"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8fdbaa7fe084e920",
+            "type": "tabs",
+            "dimension": 25.204918032786882,
+            "children": [
+              {
+                "id": "1ffc7d9abbf55c87",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -156,31 +181,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self_position_estimation/Luis_1999.md",
+                "file": "Seccampで達成したいミッション.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Luis_1999"
-            }
-          },
-          {
-            "id": "1ffc7d9abbf55c87",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Seccampで達成したいミッション"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
