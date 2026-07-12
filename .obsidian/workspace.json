@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bebb1a1a5b3d76a8",
-        "type": "split",
+        "id": "ff29700a285c3984",
+        "type": "tabs",
         "children": [
           {
-            "id": "ff29700a285c3984",
-            "type": "tabs",
-            "dimension": 74.79508196721312,
-            "children": [
-              {
-                "id": "6e37e48b25b3c98a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Seccampで達成したいミッション.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Seccampで達成したいミッション"
-                }
-              }
-            ]
-          },
-          {
-            "id": "8fdbaa7fe084e920",
-            "type": "tabs",
-            "dimension": 25.204918032786882,
-            "children": [
-              {
-                "id": "1ffc7d9abbf55c87",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              }
-            ]
+            "id": "6e37e48b25b3c98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seccampで達成したいミッション.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Seccampで達成したいミッション"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +72,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1fb4b093d7ff2416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ffc7d9abbf55c87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
