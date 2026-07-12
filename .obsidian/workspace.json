@@ -194,6 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "1ffc7d9abbf55c87",
   "lastOpenFiles": [
     "Welcome.md",
@@ -202,4 +203,8 @@
     "EV3RT/LICENSE.md",
     "EV3RT"
   ]
+=======
+  "active": "39cb5d5e078dae08",
+  "lastOpenFiles": []
+>>>>>>> 11587ce (vault backup: 2026-07-12 18:08:03)
 }
