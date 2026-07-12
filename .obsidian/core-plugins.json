@@ -22,12 +22,20 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
+<<<<<<< HEAD
   "slides": true,
+=======
+  "slides": false,
+>>>>>>> 35f0537 (Luis_1999の読了メモを追加)
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false,
+=======
+  "sync": true,
+>>>>>>> 35f0537 (Luis_1999の読了メモを追加)
   "bases": true,
   "webviewer": false
 }

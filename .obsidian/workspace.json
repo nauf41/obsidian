@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "8304ce64b0e4036e",
+    "id": "14e0df29a8429c82",
     "type": "split",
     "children": [
       {
-        "id": "88e3a6a949c2bcb1",
+        "id": "ff29700a285c3984",
         "type": "tabs",
         "children": [
           {
-            "id": "7c5110a2233f01ec",
+            "id": "6e37e48b25b3c98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EV3RT/モータードライバについて.md",
+                "file": "self_position_estimation/Luis_1999.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "モータードライバについて"
+              "title": "Luis_1999"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80977c220ca9df6a",
+    "id": "b7c497230f09b530",
     "type": "split",
     "children": [
       {
-        "id": "0e1092e9f99bea09",
+        "id": "3f9605cba8bbb974",
         "type": "tabs",
         "children": [
           {
-            "id": "741cb48ba678bca8",
+            "id": "39cb5d5e078dae08",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "168c6c0ff4fb7059",
+            "id": "d10f2704a5c59b5a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3403a5edba9d4ed4",
+            "id": "c5a85a0c50f38d10",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "09cf65e64e8d7b67",
+    "id": "5081816d139bce90",
     "type": "split",
     "children": [
       {
-        "id": "5da50b896fea471d",
+        "id": "858a2a9cbe775bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "a856dc5066e70811",
+            "id": "8419c3f883bfd002",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "self_position_estimation/Luis_1999.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Luis_1999"
             }
           },
           {
-            "id": "82ef77d39291eee6",
+            "id": "7d71ad0f763be016",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "self_position_estimation/Luis_1999.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Luis_1999"
             }
           },
           {
-            "id": "83ae82978a0e7348",
+            "id": "322f19d9d2f64292",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +137,7 @@
             }
           },
           {
-            "id": "4e28b4f2a2290ef1",
+            "id": "719207f5dc7f0591",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,22 +151,22 @@
             }
           },
           {
-            "id": "db1d96d9ce6a642a",
+            "id": "71a4de395eeafb33",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "self_position_estimation/Luis_1999.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Luis_1999"
             }
           },
           {
-            "id": "266346af80755112",
+            "id": "1ffc7d9abbf55c87",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,28 +180,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c5110a2233f01ec",
+  "active": "1ffc7d9abbf55c87",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Welcome.md",
     "EV3RT/モータードライバについて.md",
     "EV3RT/README.md",
     "EV3RT/LICENSE.md",
-    "Welcome.md",
-    "EV3RT解釈.md",
     "EV3RT"
   ]
 }
